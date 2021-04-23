@@ -9,7 +9,7 @@ You will have **4 hours** to complete the challenge.
 
 ## The challenge
 
-You must use either Terraform or AWS CloudFormation for all the following tasks. You can use modules from the Terraform registry.
+You must use either Terraform, AWS CloudFormation, or Pulumi for all the following tasks. You can use modules from the Terraform registry.
 
 - Create code for deploying a VPC in AWS with 2 public and 2 private subnets.
 
