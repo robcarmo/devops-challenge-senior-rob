@@ -4,12 +4,12 @@ This is a senior-level challenge for candidates who want to join the Particle41 
 
 It is designed to test your level of familiarity with development and operations tools and concepts.
 
-You will have **4 hours** to complete the challenge.
+You will have **8 hours** to complete the challenge.
 
 
 ## The challenge
 
-You must use either Terraform, AWS CloudFormation, or Pulumi for all the following tasks. You can use modules from the Terraform registry.
+You must use either Terraform, AWS CloudFormation, AWS CDK, or Pulumi for all of the following tasks.
 
 - Create code for deploying a VPC in AWS with 2 public and 2 private subnets.
 
@@ -24,6 +24,10 @@ You must use either Terraform, AWS CloudFormation, or Pulumi for all the followi
 
 
 Your task will be considered successful if a colleague is able to deploy your infrastructure to an AWS account.
+
+Imagine that someone with less experience than you will need to clone your repository and deploy your infrastructure. With that in mind, you must provide all the instructions they will need to do that successfully. These must include any prerequisites for deployment; mention of needed tools and links to their installation pages; how to configure credentials for the tool of your choice; and what commands to run for deploying your code to AWS.
+
+We want to see your ability to properly document and communicate about your work with the team.
 
 Other criteria for evaluation will be:
 
