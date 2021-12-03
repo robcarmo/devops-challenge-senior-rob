@@ -50,6 +50,11 @@ This assessment is in two parts, with an extra-credit section at the end.   The 
 - Create a Kubernetes manifest in YAML format, containing a Deployment and a Service, to deploy your microservice on Kubernetes. 
 - Your Deployment must use your public Docker image from DockerHub.
 
+## Push your code to a public git repo
+
+- Push your code to Github, Gitlab, Bitbucket, etc.    MAKE SURE YOU DON'T PUSH ANY SECRETS LIKE API KEYS TO A PUBLIC REPO!
+- We have a recommended repo structure [here](##Suggested Repo Structure)
+
 
 ## Acceptance Criteria
 
@@ -104,6 +109,11 @@ Create a root module in terraform that creates the following resources
 
 
 As before, you may use popular public registry modules (e.g. the vpc module)
+
+## Push your code to a public git repo
+
+- Push your code to Github, Gitlab, Bitbucket, etc.    MAKE SURE YOU DON'T PUSH ANY SECRETS LIKE API KEYS TO A PUBLIC REPO!
+- We have a recommended repo structure [here](##Suggested Repo Structure)
 
 ---
 
