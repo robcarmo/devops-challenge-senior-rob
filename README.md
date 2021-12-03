@@ -164,6 +164,8 @@ _We want to see your ability to properly document and communicate about your wor
 
 ## Extra Credit!
 
+__THIS SECTION IS ***COMPLETELY OPTIONAL***!  THERE IS NO PENALTY FOR IGNORING THIS!__
+
 Are you an overachiever? Demonstrate your mastery of cloud-native IaC tooling by doing any of these:
 
 - Additional terraform code to actually deploy the 'simpletimeservice' container image to the EKS cluster
