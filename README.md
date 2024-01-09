@@ -216,7 +216,7 @@ THIS!**
 Are you an overachiever? Demonstrate your mastery of cloud-native IaC tooling by
 doing any of these:
 
-- Additional terraform code to actually deploy the 'simpletimeservice' container
+- Additional Terraform code to actually deploy the 'simpletimeservice' container
   image to the EKS cluster.
 - Additional Terraform code to use the Helm provider and any public helm chart
   to install any standard devops tooling (such as Prometheus).
