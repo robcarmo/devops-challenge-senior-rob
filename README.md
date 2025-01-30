@@ -1,5 +1,3 @@
-**NOTE:** _EXECUTING THIS CHALLENGE WILL CREATE RESOURCES IN YOUR CLOUD ACCOUNT AND WILL COST A FEW DOLLARS. IF THIS IS A PROBLEM FOR YOU, LET US KNOW AND WE WILL PROVIDE YOU WITH AN API KEY TO USE._
-
 # Welcome to the Particle41 DevOps Team Challenge
 
 This challenge is for candidates who want to join the Particle41 DevOps team.
@@ -20,6 +18,8 @@ This challenge is designed to evaluate your abilities in the following technolog
 * Documentation, including a short blurb about the purpose/contents of your repo as well as simple deployment instructions.
 
 This assessment consists of two parts, with an extra-credit section at the end. The first part asks you to create a small application and containerize it. The second part asks you to create a terraform module to deploy a VPC, the necessary ECS/EKS/Lambda (or Azure/GCP equivalent) infrastructure required, and deploy the application to it.
+
+**When you have finished your challenge and your repository is ready for review, please tell us at careers@particle41.com.  Remember to include the URL to your repository.**
 
 ## Documentation is MANDATORY
 
