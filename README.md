@@ -4,6 +4,9 @@ This challenge is for candidates who want to join the Particle41 DevOps team.
 
 It is designed to assess your level of familiarity with common modern development and operations tools and concepts.
 
+**Warning: Working through this challenge WILL INCUR COSTS on your cloud account. Particle41 does not cover any costs associated with the challenge,
+so please ensure you clean up your cloud environment properly after you verify that your code works.**
+
 ## Summary
 
 We aim to hire software engineers who embrace the DevOps mindset, especially taking an infrastructure-as-code approach to software and infrastructure deployment.
